@@ -1,0 +1,156 @@
+.header{
+    background: linear-gradient(brown,pink);
+    height: 150px;
+    margin: -10px 
+}
+.buttons{
+    background-color: gray;
+    height:40px;
+    margin:10px -10px;
+    padding:10px;
+}
+.buttonup{
+    width:22%;
+    background-color: gainsboro;
+    border: white solid 0px;
+    height: 40px;
+    border-radius:20px;
+    float:left;
+    margin-left: 10px;
+    font-weight: bold;
+    font-family: impact;
+    font-size: 25px;
+}
+.buttonup:hover{
+    background-color: gray;
+    color:white;
+    cursor: pointer;
+}
+
+.login{
+    height: 40px;
+    margin-left: 80px;
+    float:left;
+    cursor: pointer;
+}
+.cart{
+    height: 40px;
+    float:left;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.web-body{
+    background-color: white;
+    height: 550px;
+}
+.imgsbody{
+    margin-left:33%;
+    margin-top: 15%;
+}
+.titleindex{
+    text-align: center;
+    margin-bottom: -200px;
+    margin-top: 100px;
+}
+.img-catag{
+    background-color:lightblue;
+    width:200px;
+    height: 200px;
+    float:left;
+    padding: 10px;
+    margin-left: 10px;
+    margin-bottom:1%;
+    text-align: center;
+    cursor:pointer;
+    color: black;
+    text-decoration: none;
+}
+.imgsbody-index{
+    margin-left:33%;
+    margin-top: 5%;
+    background-color: burlywood;
+}
+.titlecatag{
+    margin-bottom: -220px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.imgscatag{
+    margin-left:7%;
+    margin-top: 14%;
+}
+.text-h{
+    text-align: center;
+    margin: 0 100px;
+    font-size: 20px;
+    margin-top: 250px;
+}
+.titleh{
+    margin-bottom: -220px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.titlef{
+    margin-bottom: -220px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.titlep{
+    margin-bottom: -220px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.contact{
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px;
+    height: 70%;
+    width: 50%;
+    display: flex;
+    margin-left: 25%;
+    margin-top: 300px;
+    justify-content: center;
+    background-color: aqua;
+}
+.contact-asunto{
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 98%;
+    height: 30px;
+    font-size: 16px;
+}
+.contact-text{
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 98%;
+    height: 200px;
+}
+.imgproduct{
+    background-color:lightblue;
+    width:400px;
+    height: 400px;
+    float:left;
+    padding: 10px;
+    margin-left: 10px;
+    margin-bottom:1%;
+    text-align: center;
+    cursor:pointer;
+}
+.imgsproduct{
+    margin-left:10%;
+    margin-top: 15%;
+}
+.textoproducto{
+    margin-left: 30%;
+    margin-right: 20%;
+}
+.precioproducto{
+    margin-left: 75%;
+}
+.logo{
+    background: greenyellow;
+    height: 150px;
+    width: 200px;
+    margin: -10px;
+    text-align: center;
+}
